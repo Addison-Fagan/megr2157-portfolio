@@ -4,7 +4,11 @@ site_description: Design portfolio documentation, built with the Analyze / Decid
 theme:
   name: material
   palette:
-    primary: green
+    primary: :root {
+  --primary-color: #00703c;  /* UNCC Green */
+  --accent-color: #f1c40f;   /* UNCC Gold / Yellow */
+  --link-color: #f1c40f;
+}
   features:
     - navigation.instant
     - navigation.tracking
