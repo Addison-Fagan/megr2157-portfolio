@@ -26,11 +26,17 @@ To design the connecting pins, I identified the governing load case using the ma
 ## CAD work
 To model the truss in SolidWorks, I began by sketching the centerline geometry and member profile based on the analytical design dimensions and the calculated minimum cross-sectional area. I then used an extruded boss/base feature to generate the solid, unified 3D truss frame, creating uniform members throughout the structure. Next, I added extruded cuts at each node to incorporate the pin holes sized according to the shear connection calculations. I was unable to apply structural steel material properties to the CAD model to evaluate its final mass and volume, so I was unable to compare my calculated numbers to the cad ones.
 
-![part 2d](IMG_3865.jpeg)
-![part 2d](IMG_3867.jpeg)
-![part 2d](IMG_3868.jpeg)
+![part 2f](IMG_3865.jpeg)
+![part 2g](IMG_3867.jpeg)
+![part 2h](IMG_3868.jpeg)
+![hw2(inco)AddisonFagan.pdf](hw2(inco)AddisonFagan.pdf)
+
+this is the link to the CAD File
+![hw2(inco)AddisonFagan.SLDPRT](hw2(inco)AddisonFagan.SLDPRT)
 ## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
+I went with a basic truss design so it would be easier to model and easier to calculate
 
 ## Communicate
+Through this project, I developed a deeper understanding of integrating fundamental static analysis directly into mechanical sizing criteria. Specifically, I learned how to isolate critical governing loads by resolving complex planar trusses using concurrent joint equilibrium, identifying members CE and DE as the limiting structural elements under the 20.04 kN load. Applying explicit factors of safety against material yield and shear strengths demonstrated how theoretical limits dictate real-world cross-sectional requirements for both load-bearing members and fastener pins. Additionally, translating these calculated parameters into SolidWorks reinforced the necessity of unit consistency across SI and US Customary systems
+
 
