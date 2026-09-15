@@ -6,8 +6,8 @@ The objective of this assignment is to design, size, and document a functional m
 ## Analyze
 
 
-![part 2b](IMG_3861.jpeg)
-![part 2b](IMG_3861.jpeg)
+![part 4a](IMG_4118.jpeg)
+![part 4b](IMG_4119.jpeg)
 
 ## Decide
 
