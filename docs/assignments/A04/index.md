@@ -17,6 +17,14 @@ For Feature 2 ( in IMG_4118.jpeg), I set the height to 5 cm and the length to 1 
 Before building the CAD model, I drew an isometric sketch of the motor mount (in IMG_4119.jpeg) using the dimensions found from Features 1 and 2. This sketch shows the overall shape of the bracket, how the two sections connect together, and where the mounting holes and motor shaft opening are located.
 ![part 4b](IMG_4119.jpeg)
 
+
+## CAD work
+In the imige below is the start of the prosses of the cad work
+A4MotorMountAddisonFaganpng.PNG
+![part 4a](A4MotorMountAddisonFaganpng.PNG)
+
+Here is the link to the finished cad work
+
 ## Decide
 
 
