@@ -23,8 +23,8 @@ In the imige below is the start of the prosses of the cad work
 A4MotorMountAddisonFaganpng.PNG
 ![part 4a](A4MotorMountAddisonFaganpng.PNG)
 
-Here is the link to the finished cad work
-
+Here is the link to the finished cad work:
+![hw2(inco)AddisonFagan.SLDPRT](hw2(inco)AddisonFagan.SLDPRT)
 ## Decide
 
 
