@@ -24,7 +24,7 @@ A4MotorMountAddisonFaganpng.PNG
 ![part 4a](A4MotorMountAddisonFaganpng.PNG)
 
 Here is the link to the finished cad work:
-![hw2(inco)AddisonFagan.SLDPRT](hw2(inco)AddisonFagan.SLDPRT)
+![A4MotorMountAddisonFagan.SLDPRT](A4MotorMountAddisonFagan.SLDPRT)
 ## Decide
 
 
