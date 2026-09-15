@@ -25,8 +25,6 @@ A4MotorMountAddisonFaganpng.PNG
 
 Here is the link to the finished cad work:
 ![A4MotorMountAddisonFagan.SLDPRT](A4MotorMountAddisonFagan.SLDPRT)
-## Decide
-
 
 ## Communicate
-
+This assignment took me about 5 hours, the big time suck as haveing to restart the cad drawing a few times
