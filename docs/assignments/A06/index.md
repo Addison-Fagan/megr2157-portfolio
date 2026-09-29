@@ -4,7 +4,7 @@
 
 
 ## Analyze
-
+![part 4a](image)
 
 ## Decide
 
