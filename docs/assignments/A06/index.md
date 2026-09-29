@@ -8,6 +8,9 @@ For my bracket, I first took my sketch form last week and double checked my dime
 
 ![brac6apng.png](brac6apng.png)
 
+Here is the link to that part file 
+![HW6-brac.SLDPRT](HW6-brac.SLDPRT)
+
 ## Decide
 
 
