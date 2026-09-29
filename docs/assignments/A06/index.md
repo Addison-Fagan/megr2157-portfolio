@@ -4,7 +4,7 @@
 
 
 ## Analyze
-![part 4a](image)
+![brac6apng.png](brac6apng.png)
 
 ## Decide
 
