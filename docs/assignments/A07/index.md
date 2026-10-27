@@ -4,8 +4,7 @@
 The objective of Assignment 7 was to perform a Finite Element Analysis (FEA) on the bracket design from Assignment 5 using SolidWorks Simulation. A 600 lbf load was applied to evaluate structural performance, and mesh refinement was conducted to ensure result convergence and accuracy. Based on the findings, the bracket was subsequently redesigned to enhance both strength and stiffness.
 
 ## Outer Loop 1
-Static Stress Analysis
-______
+Static Stress Analysis:
 A static stress study was initialized in SolidWorks Simulation to evaluate the baseline structural performance of the original bracket design. The component material was assigned as 6061 Aluminum alloy.
 
 Fixtures and Constraints:
@@ -17,6 +16,8 @@ A downward load of 600 lbf—specified in Assignment 5—was applied to the cyli
 Mesh Selection:
 A solid tetrahedral mesh was generated using standard default settings. An initial study was executed to establish baseline values for maximum von Mises stress and resultant displacement.
 
+![image (5).png](image (5).png)
+![image (7).png](image (7).png)
 ____
 
 
