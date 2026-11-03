@@ -13,6 +13,13 @@ The primary objective of this project is to develop a fully functional, modular 
 ![Gearbox Draw](IMG_4889.jpeg)
 
 ## Gearbox CAD
+I picked alloy steel because it's super common and pretty much what every industry uses. For the box, I made the base 3 inches long by 2 inches tall, and then I just extruded it back 3 inches so it would fit the longest shaft in the model.
+
+![Deta Table](image (8).png)
+
+![Front View](image (9).png)
+
+![Back view](image (10).png)
 
 ## Gearbox Part Download
 ![Gearbox](gearboxhw8.dwg)
@@ -33,5 +40,6 @@ Little Gear - https://www.mcmaster.com/7880K17/
 
 Small Shaft - https://www.mcmaster.com/1327K93/
 
-## Communicate
+## Conclusion 
+In this assignment, I learned how to calculate torque (we haven't gone over it in solids yet) and how easy it is to import files from manufacturer’s websites, so I don't need to design and machine every part myself. Overall, the CAD was the easiest part of this assignment and took me 2 hours, but the calculations took closer to 4 hours because I haven't worked with these calculations before. So, in total, this took me 6 hours to complete
 
