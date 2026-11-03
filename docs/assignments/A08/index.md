@@ -12,7 +12,13 @@ The primary objective of this project is to develop a fully functional, modular 
 ## Gearbox Drawing
 ![Gearbox Draw](IMG_4889.jpeg)
 
-## Downloaded parts and links to purchase
+## Gearbox CAD
+
+## Gearbox Part Download
+![Gearbox](gearboxhw8.dwg)
+![Gearbox Lid](gearboxhw8lid.dwg)
+![Gearbox Assembley](gearboxhw8asemble.dwg)
+## Downloaded Parts and Links to Purchase
 Bolt - https://www.mcmaster.com/91251A102/ 
 
 Bearing Sleeve Little Hole - https://www.mcmaster.com/6391K111/
