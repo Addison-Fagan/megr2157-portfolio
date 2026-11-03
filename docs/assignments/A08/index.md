@@ -12,8 +12,20 @@ The primary objective of this project is to develop a fully functional, modular 
 ## Gearbox Drawing
 ![Gearbox Draw](IMG_4889.jpeg)
 
-## Decide
+## Downloaded parts and links to purchase
+Bolt - https://www.mcmaster.com/91251A102/ 
 
+Bearing Sleeve Little Hole - https://www.mcmaster.com/6391K111/
+
+Bearing Sleeve Big Hole - https://www.mcmaster.com/6391K136/
+
+Big Gear - https://www.mcmaster.com/6832K45/
+
+Shaft - https://www.mcmaster.com/1327K113/
+
+Little Gear - https://www.mcmaster.com/7880K17/
+
+Small Shaft - https://www.mcmaster.com/1327K93/
 
 ## Communicate
 
